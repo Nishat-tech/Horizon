@@ -17,10 +17,10 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Welcome to Cherry Bean",
             "link": "",
             "font": "var(--font-subheading--family)",
-            "font_size": "0.75rem",
+            "font_size": "1.25rem",
             "weight": "",
             "letter_spacing": "normal",
             "case": "none"
